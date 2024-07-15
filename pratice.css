@@ -1,0 +1,65 @@
+
+.container{
+    width: 825px;
+    margin: 50px auto;
+    position: relative;
+   
+    border: 4px black solid ;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+ul{
+    font-size: 20px;
+}
+.buy{
+    background-color: red;
+    font-size: 25px;
+    color: white;
+    margin-left: 5px;
+
+}
+.cart{
+    background-color: orange;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+h3{
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    display: inline-block;
+    position: absolute;
+   top: -60px;
+   left: 0px;
+}
+p{
+    font-size: 20px;
+    padding-left: 5px;
+}
+.colour{
+    height: 22px;
+  width: 22px;
+  display: inline-block;
+} 
+.colour-black{
+    background-color: black; 
+}
+.colour-blue{
+    background-color: blue;
+}
+.colour-red{
+    background-color: red;
+    
+}
+.colour-yellow{
+    background-color: yellow;
+}
+.colour-orange{
+    background-color: orange;
+}
